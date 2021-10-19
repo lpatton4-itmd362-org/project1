@@ -1,0 +1,52 @@
+/* code for fonts used in this project:
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+*/
+
+body {
+  background-color: #dda15e; 
+}
+
+header {
+  background-color: #bc6c25;
+  color: #283618;
+  width: 100%;
+  margin: 0px;
+  padding: 1px;
+  position: relative;
+}
+
+h2 {
+
+ 
+}
+
+h4 {
+ 
+}
+
+form {
+  background-color: #fefae0;
+  text-align: center;
+  width: 70%;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 5px;
+  color: #283618;
+  border-color: #606c38;
+  border: 10px;
+}
+
+li {
+  list-style: none;
+  width: 45%;
+  margin: 25px auto;
+}
+
+#submit {
+  color: #fefae0;
+  background-color: #283618;
+  padding: 20px 10px;
+  margin: 40px 0px;
+  width: 30%;
+}
