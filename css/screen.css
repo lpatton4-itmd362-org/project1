@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background-color: #dda15e; 
+  background-color: #bc6c25; 
 }
 
 header {
@@ -34,7 +34,7 @@ h4 {
 }
 
 form {
-  background-color: #fefae0;
+  background-color: #dda15e;
   text-align: center;
   width: 80%;
   margin: 40px auto;
@@ -64,6 +64,11 @@ li {
   margin: 25px auto;
   font-family: 'Poppins', sans-serif;
   font-size: 30px;
+}
+
+input {
+  border-style: hidden;
+  background-color: #fefae0;
 }
 
 #submit {
