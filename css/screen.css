@@ -1,15 +1,19 @@
-/* code for fonts used in this project:
+/* Rules to specify font families:
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 */
+
+html {
+  line-height: 1.2em;
+}
 
 body {
   background-color: #dda15e; 
 }
 
 header {
-  background-color: #bc6c25;
-  color: #283618;
+  background-color: #606c38;
+  color: #fefae0;
   width: 100%;
   margin: 0px;
   padding: 1px;
@@ -17,36 +21,64 @@ header {
 }
 
 h2 {
-
- 
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 20px 20px 5px 20px;
 }
 
 h4 {
- 
+  font-size: 25px;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0px 20px 20px 20px;
 }
 
 form {
   background-color: #fefae0;
   text-align: center;
-  width: 70%;
+  width: 80%;
   margin: 40px auto;
   padding: 20px;
   border-radius: 5px;
   color: #283618;
-  border-color: #606c38;
-  border: 10px;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+ul {
+ padding: 0px; 
 }
 
 li {
   list-style: none;
   width: 45%;
   margin: 25px auto;
+  font-family: 'Poppins', sans-serif;
 }
 
 #submit {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
   color: #fefae0;
   background-color: #283618;
   padding: 20px 10px;
   margin: 40px 0px;
   width: 30%;
+}
+
+@media screen and (min-width: 768px){
+  
+  
+}
+
+@media screen and (min-width: 992px){
+  
+  
 }
