@@ -76,9 +76,10 @@ li {
 }
 
 input {
+  margin: 0px;
+  /*width: 90%;*/
   border-style: hidden;
   background-color: #fefae0;
-  width: 90%;
   text-align: center;
 }
 
