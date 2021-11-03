@@ -116,10 +116,6 @@ input::placeholder {
   form {
     width: 75%;
   }
-  
-  #submit {
-    margin: 10px auto;
-  }
 }
 
 @media only screen and (min-width: 992px){ 
@@ -137,12 +133,7 @@ input::placeholder {
   
   li {
     list-style: none;
-    width: 30%;
     margin: 15px auto;
     font-family: 'Poppins', sans-serif;
-  }
-
-  #submit {
-    margin: 10px auto;
   }
 }
