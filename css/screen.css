@@ -106,48 +106,21 @@ input {
   
 
 @media only screen and (min-width: 768px){
-  h1 {
-    font-size:60px;
-  }
-  
-  form {
+   form {
     width: 75%;
   }
   
-  p {
-    font-size: 30px;
-  }
-  
-  h2 {
-    font-size: 30px;
-  }
-  
-  h4 {
-    font-size: 18.75px;
-  }
-  
   #submit {
-    font-size: 30px;
     margin: 10px auto;
   }
 }
 
-@media only screen and (min-width: 992px){
-  h1 {
-    font-size: 35px;
-  }
-  
-  p {
-    font-size: 17.5px;
-  }
-  
+@media only screen and (min-width: 992px){ 
   h2 {
-    font-size: 20px;
     margin: 10px 13px 3px 20px;;
   }
   
   h4 {
-    font-size: 12.5px;
     margin: 0px 20px 13px 20px;
   }
   
@@ -160,11 +133,9 @@ input {
     width: 30%;
     margin: 15px auto;
     font-family: 'Poppins', sans-serif;
-    font-size: 15px;
   }
 
   #submit {
-    font-size: 20px;
     margin: 10px auto;
   }
 }
