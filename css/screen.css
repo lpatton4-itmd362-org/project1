@@ -139,6 +139,7 @@ input::placeholder {
   }
   
   #submit {
-    width: 10%;
+    font-size: 1.833em;
+    margin: 5px;
   }
 }
