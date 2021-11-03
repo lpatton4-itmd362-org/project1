@@ -64,7 +64,7 @@ p {
 }
 
 ul {
- padding: 0px; 
+  padding: 0px; 
 }
 
 li {
@@ -84,7 +84,7 @@ input {
 }
 
 input::placeholder {
-font-size: 1.032em; /*16.5px*/
+  font-size: 1.032em; /*16.5px*/
 }
 
 
