@@ -136,4 +136,8 @@ input::placeholder {
     font-family: 'Poppins', sans-serif;
     text-align: center;
   }
+  
+  #submit {
+    font-size: 1.833em;
+  }
 }
