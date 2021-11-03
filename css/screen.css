@@ -55,7 +55,7 @@ h1 {
   font-family: 'Roboto Condensed', sans-serif;
   text-align: center;
   font-size: 4.341em; /*69.46px*/
-  line-height: 5.209em;
+  padding: 20px;
 }
 
 p {
