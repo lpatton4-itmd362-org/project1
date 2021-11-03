@@ -116,6 +116,9 @@ input::placeholder {
   form {
     width: 75%;
   }
+  
+  #submit {
+    padding: 20px;
 }
 
 @media only screen and (min-width: 992px){ 
@@ -139,5 +142,6 @@ input::placeholder {
   
   #submit {
     font-size: 1.833em;
+    padding: 10px;
   }
 }
