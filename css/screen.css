@@ -128,12 +128,17 @@ input::placeholder {
   }
   
   form {
-    width: 60%;
+    width: 50%;
   }
   
   li {
     list-style: none;
     margin: 15px auto;
     font-family: 'Poppins', sans-serif;
+    text-align: center;
+  }
+  
+  #submit {
+    width: 10%;
   }
 }
