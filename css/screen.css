@@ -69,7 +69,7 @@ ul {
 
 li {
   list-style: none;
-  margin: 25px auto;
+  margin: 1.563em auto;
   font-family: 'Poppins', sans-serif;
   font-size: 1.375em; /*22px*/
   line-height: 1.65em; /*26.4px*/
@@ -133,7 +133,6 @@ input::placeholder {
   
   li {
     list-style: none;
-    margin: 15px auto;
     font-family: 'Poppins', sans-serif;
     text-align: center;
   }
