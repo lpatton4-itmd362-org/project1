@@ -79,7 +79,13 @@ input {
   border-style: hidden;
   background-color: #fefae0;
   width: 90%;
+  text-align: center;
 }
+
+input::placeholder {
+font-size: 1.032em; /*16.5px*/
+}
+
 
 #submit {
   font-family: 'Roboto Condensed', sans-serif;
