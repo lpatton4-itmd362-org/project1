@@ -1,10 +1,18 @@
-/* Rules to specify font families:
+/* 
+Rules to specify font families:
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 */
 
+/*
+Perfect Fourth Modular Scale
+https://www.modularscale.com/?22&px&1.333
+*/
+
 html {
+  font-size: 22px;
   line-height: 1.2em;
+  /*font-family:;*/
 }
 
 body {
@@ -16,15 +24,16 @@ header {
   color: #fefae0;
   width: 100%;
   margin: 0px;
-  padding: 1px;
+  padding: 1em;
   position: relative;
 }
 
 h2 {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: bold;
-  font-size: 40px;
-  margin: 20px 20px 5px 20px;
+  font-size: 3.257em; /*52.1px*/
+  line-height: 3.908em; /*62.5px*/
+  margin: 1.25em 1.25em .3em 1.25em;
 }
 
 h4 {
@@ -46,7 +55,8 @@ form {
 h1 {
   font-family: 'Roboto Condensed', sans-serif;
   text-align: center;
-  font-size: 80px;
+  font-size: 4.341em; /*69.46px*/
+  line-height: 5.209em; /*83.3px*/
 }
 
 p {
